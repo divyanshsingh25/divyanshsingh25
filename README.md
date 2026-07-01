@@ -22,18 +22,22 @@
 
 ## 🧑‍💻 About Me
 
-> *"The quieter you become, the more you are able to hear."*
+> *"In stillness, clarity finds you"*
 
-I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities, conduct penetration tests, and ship production-grade web applications.
+I'm **Divyansh Singh**, a **Cybersecurity Researcher** and **Full-Stack Developer** based in Surat, India 🇮🇳. I spend my time finding weaknesses before attackers do — and building software that doesn't have those weaknesses in the first place.
 
-- 🔭 Currently building a **Real-time Chat Application** & **AI-powered Security Testing Automation**
-- 🌱 Deep-diving into **AI agents, Claude Code workflows, adaptive false-positive reduction, and real-time TPR optimization**
-- 🐛 Active bug bounty hunter — targeting web apps, APIs, and LMS platforms
-- 👯 Open to collaborating on **open-source security tools** and **web development** projects
-- 🎯 Methodologies: **MITRE ATT&CK · OWASP Top 10 · PTES**
-- 💬 Ask me about **Python, Bash scripting, DSA, offensive/defensive security tools**
-- 📫 Reach me: **singhdivyansh2508@gmail.com**
-- ⚡ Fun fact: I believe `Ctrl + S` is the most important shortcut in the universe
+What I actually do:**
+- 🔍 Break down web apps, APIs, and LMS platforms looking for what shouldn't be there
+- 🛡️ Monitor, correlate, and hunt threats using **Splunk, ELK, Wazuh, and Snort**
+- 🧪 Test with **Burp Suite, Kali Linux, and Wireshark** as my daily drivers
+- 💻 Build things in **Python, Shell/Bash, JavaScript, and SQL** — from automation scripts to full web apps
+- ⚙️ Currently shaping a **Ai integrated vulnerablity scanner tool**
+- 🤖 Experimenting with **AI agents and Claude Code workflows** to cut false positives and speed up detection
+
+**How I work:** MITRE ATT&CK for mapping threats, OWASP Top 10 for web app assessments, PTES for structured pentests.
+
+- 📫 **singhdivyansh2508@gmail.com**
+
 
 ---
 
