@@ -94,28 +94,17 @@ What I actually do:**
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsingh25&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Divyansh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshsingh25&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshsingh25&theme=radical&hide_border=true" width="70%" alt="Divyansh's Streak" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
-```text
-🐛 Bug Bounty        ██████████████░░   Active hunting
-🤖 AI + Security     ████████████░░░░   Automation & Agent Integration
-🌐 Web Development   ██████████░░░░░░   Real-time Devsecops with AI
-📖 CVE Research      ████████░░░░░░░░   Ongoing
+text
+🛡️ SOC & Blue Team      ██████████████░░   Active Defense & Monitoring
+🤖 AI Security           ████████████░░░░   Automation & AI Agents
+🌐 Web Development       ██████████░░░░░░   Secure Full-Stack Development
+🔍 Vulnerability Research █████████░░░░░░░  OWASP & Security Testing
+📖 CVE Research          ████████░░░░░░░░   Ongoing Analysis
 ```
-
 ---
